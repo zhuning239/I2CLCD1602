@@ -5,9 +5,9 @@ makecode I2C 液晶 1602 软件包
 作者: 朱林  
 日期: 2018/4
 
-![Alt text](https://github.com/zhuning239/I2CLCD1620/master/icon.png)  
+![](https://github.com/zhuning239/I2CLCD1620/master/icon.png)  
   
-![Alt text](https://github.com/zhuning239/I2CLCD1620/master/lcd.jpg)
+![](https://github.com/zhuning239/I2CLCD1620/master/lcd.jpg)
 
 ## 使用方法
 
