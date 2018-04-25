@@ -63,7 +63,7 @@ y: 液晶Y轴坐标, [0 - 1]
 
 ## 演示
 
-![](https://github.com/zhuning239/I2CLCD1620/master/demo.jpg)
+![image](https://github.com/zhuning239/I2CLCD1602/blob/master/demo.jpg)
 
 ## 授权方式
 
