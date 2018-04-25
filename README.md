@@ -5,15 +5,15 @@ makecode I2C 液晶 1602 软件包
 作者: 朱林  
 日期: 2018/4
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/I2CLCD1620_cn/master/icon.png)  
+![](https://raw.githubusercontent.com/zhuning239/I2CLCD1620_cn/master/icon.png)  
   
-![](https://raw.githubusercontent.com/microbit-makecode-packages/I2CLCD1620_cn/master/lcd.jpg)
+![](https://raw.githubusercontent.com/zhuning239/I2CLCD1620_cn/master/lcd.jpg)
 
 ## 使用方法
 
 打开 makecode 编辑器，在项目中选择添加软件包，然后在地址栏输入下面网址  
 
-https://github.com/microbit-makecode-packages/I2CLCD1620
+https://github.com/zhuning239/I2CLCD1602
 
 搜索后就可以添加并使用本软件包了。
 
@@ -63,7 +63,7 @@ y: 液晶Y轴坐标, [0 - 1]
 
 ## 演示
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/I2CLCD1620/master/demo.jpg)
+![](https://raw.githubusercontent.com/zhuning239/I2CLCD1620/master/demo.jpg)
 
 ## 授权方式
 
