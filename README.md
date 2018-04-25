@@ -2,8 +2,8 @@
 
 makecode I2C 液晶 1602 软件包  
 
-作者: 朱林  
-日期: 2018/4
+* 作者: 朱林  
+* 日期: 2018/4
 
 ![image](https://github.com/zhuning239/I2CLCD1602/blob/master/icon.png)  
   
@@ -67,8 +67,8 @@ y: 液晶Y轴坐标, [0 - 1]
 
 ## 授权方式
 
-MIT
-湖南创乐博智能科技有限公司
+* MIT
+* 湖南创乐博智能科技有限公司
 
 ## 支持硬件
 
